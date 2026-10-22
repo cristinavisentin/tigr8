@@ -6,7 +6,7 @@ Potevamo consegnare un regalo e basta. Abbiamo preferito istituire un dipartimen
 
 **Operazione Fuori Servizio** è un piccolo gioco fatto su misura per un amico: battute interne, procedure improbabili e una sorpresa da guadagnarsi. Dura circa **5–8 minuti**, salvo ricorsi alla commissione.
 
-**[Prova l’esperienza online →](https://cristinavisentin.github.io/tigrotto/)**
+**[Prova l’esperienza online →](https://cristinavisentin.github.io/tigr8/)**
 
 
 ## Disclaimer
